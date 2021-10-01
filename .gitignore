@@ -117,3 +117,6 @@ dmypy.json
 # Folders for local files
 data/
 plots/
+
+# .dat files (too big for GitLab)
+*.dat
